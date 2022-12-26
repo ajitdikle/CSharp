@@ -5,7 +5,9 @@ VisualStudioVersion = 17.4.33205.214
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpAssignment", "CSharpAssignment\CSharpAssignment.csproj", "{526E69D7-A4AA-42DB-808F-3BD973D1F367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAssign", "CSharpAssign\CSharpAssign.csproj", "{F37509DD-0E47-477E-BDD0-4939D4878739}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CSharpAssign", "CSharpAssign\CSharpAssign.csproj", "{F37509DD-0E47-477E-BDD0-4939D4878739}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharpAssignment11", "OddAndEven\CSharpAssignment11.csproj", "{E357D2AF-B36B-47D9-A53F-D9004CF9470D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F37509DD-0E47-477E-BDD0-4939D4878739}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F37509DD-0E47-477E-BDD0-4939D4878739}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F37509DD-0E47-477E-BDD0-4939D4878739}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E357D2AF-B36B-47D9-A53F-D9004CF9470D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E357D2AF-B36B-47D9-A53F-D9004CF9470D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E357D2AF-B36B-47D9-A53F-D9004CF9470D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E357D2AF-B36B-47D9-A53F-D9004CF9470D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
